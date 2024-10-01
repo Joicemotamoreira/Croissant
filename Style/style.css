@@ -1,0 +1,23 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1,
+p,
+.links {
+  text-align: center;
+}
+
+.links {
+  justify-content: space-evenly;
+}
+
+.links a {
+  margin: 10px;
+  color: green;
+}
+
+img {
+  border-radius: 10px;
+  margin: 10px;
+}
